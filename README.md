@@ -33,7 +33,7 @@ Aerocode é um sistema onde é possível:
 - Analisar testes como elétricos, hidráulicos e aerodinâmicos.
 - Gerar relatórios para controle de qualidade.
 
-Acesse o Relatório do sistema com o Wireframe e User Flow: [Relatório Completo](./Relatorio_AV2)
+Acesse o Relatório do sistema com o Wireframe e User Flow: [Relatório Completo](./Relatorio_AV2.pdf)
 
 ---
 
