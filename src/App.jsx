@@ -8,6 +8,7 @@ import Cadastro from "./pages/Cadastro"
 import Etapas from './pages/Etapas';
 import Testes from './pages/Testes';
 import Relatorios from './pages/Relatorios';
+import Listagem from './pages/Listagem';
 
 
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="/etapas" element={<Etapas />} />
         <Route path="/testes" element={<Testes />} />
         <Route path="/relatorios" element={<Relatorios />} />
+        <Route path="/listagem" element={<Listagem />} />
         <Route path="*" element={<Navigate to="/" />} />
       </Routes>
     </Router>
