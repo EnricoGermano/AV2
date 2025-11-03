@@ -9,6 +9,7 @@ Este projeto é um sistema para gerenciar a produção de aeronaves civis e mili
 1. Clone o repositório:
 ```bash
 git clone https://github.com/EnricoGermano/AV2.git
+cd AV2
 ```
 2. Instale as dependências:
 ```bash
@@ -16,7 +17,7 @@ npm install
 ```
 3. Inicie o servidor de desenvolvimento:
 ```bash
-npm start
+npm run dev
 ```
 
 4. Na primeira execução, se ainda não existir usuário cadastrado, você será redirecionado automaticamente para a tela de cadastro do primeiro usuário administrador.
